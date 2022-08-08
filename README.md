@@ -1,2 +1,2 @@
-# Spotify-porjeto-treino
+# Spotify-projeto-treino
  
